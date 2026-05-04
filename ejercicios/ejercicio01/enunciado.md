@@ -17,4 +17,19 @@ El programa debe:
 <=
 >=
 ==
-!=  # También puede ir al final
+!=  
+
+Pedir temperatura al usuario
+Intentar convertirla a número entero
+
+Si no se puede convertir:
+    Mostrar mensaje de error
+
+Si se puede convertir:
+    Si temperatura < 0:
+        Es bajo cero
+    Si temperatura está entre 0 y 25:
+        Es templada
+    Si temperatura > 25:
+        Es alta
+

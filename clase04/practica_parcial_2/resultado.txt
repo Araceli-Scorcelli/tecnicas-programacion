@@ -1,0 +1,2 @@
+Promedio: 5.0
+El alumno no aprueba
